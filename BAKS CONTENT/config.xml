@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="com.pinecityzoo.app"
+        versionCode="1"
+        version="1.0.0">
+    <name>Pine City Zoo</name>
+    <description>
+        Explore the wonders of Pine City Zoo! Discover amazing animals, places, and more.
+    </description>
+    <author href="https://pinecityzoo.example.com" email="aobakwemakwati@icloud.com">
+        Pine City Zoo Team
+    </author>
+</widget> 

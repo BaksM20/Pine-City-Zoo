@@ -1,0 +1,23 @@
+.digitButton{
+    background-color: #807e80;
+}
+.digitButton:hover, .digitButton:active {
+    background-color: #a89fae;
+    cursor: pointer;
+}
+
+.operatorButton{
+    background-color: #ff9e06;
+}
+.operatorButton:hover, .operatorButton:active {
+    background-color: #ffd36b;
+    cursor: pointer;
+}
+
+.ACButton{
+    background-color: #656165;
+}
+.ACButton:hover, .ACButton:active {
+    background-color: #8d8d8d;
+    cursor: pointer;
+} 
